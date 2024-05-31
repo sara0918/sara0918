@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://github.com/sara0918)
 
 ##### Hi, I'm Adam:
 
@@ -8,7 +8,7 @@
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraalialamer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/-sara-ali)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-sara-ali)
 [![X](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://x.com/sarahail27?s=21&t=sYIoa0XHc9u5Ce1Lfo7owA)
 
 ##### Languages I use
