@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://github.com/sara0918)
+![Header](https://github.com/sara0918/sara0918/raw/master/profile.gif)](https://github.com/sara0918)
 
 ##### Hi, I'm Adam:
 
