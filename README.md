@@ -1,14 +1,14 @@
 ## Hi there 👋
 ![Header](https://github.com/sara0918/sara0918/raw/master/profile.gif)](https://github.com/sara0918)
 
-##### Hi, I'm Adam:
+##### Hi, I'm sara:
 
 - 🎓fresh graduate computer science graduate from KKU - intersted in data science and artifical intelligence 
 - :speech_balloon: Ask me about data science , artifical Intelligence , full-stack, machine learning ,deep learning, or literally anything!
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraalialamer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-sara-ali)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-sara-ali)
 [![X](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://x.com/sarahail27?s=21&t=sYIoa0XHc9u5Ce1Lfo7owA)
 
 ##### Languages I use
@@ -29,8 +29,10 @@
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
-javascript
+python
 // Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+emoji_list = ['🥚', '🐣', '🐥', '🐔']
+emoji_list.sort()
+print(emoji_list)
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
