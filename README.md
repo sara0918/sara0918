@@ -9,12 +9,13 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraalialamer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-sara-ali)
-<a href="https://x.com/sarahail27?s=21&t=sYIoa0XHc9u5Ce1Lfo7owA"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/sarahail27?s=21&t=sYIoa0XHc9u5Ce1Lfo7owA)
 
 ##### Languages I use
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 
 ##### Some of the technologies I have worked with
 
